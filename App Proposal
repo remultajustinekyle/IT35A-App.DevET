@@ -1,1 +1,73 @@
+"WasteLessHub"
 
+Food Farm disrupts food waste through its app system by coordinating access between consumers and retailers with surplus food shipments to beneficial local charities and food banks. The application functions to redistribute excess food that would end up as waste through redirection to communities in need. Make a connection through this platform which deals with hunger as well as food security and sustainable practices.
+
+Key SDGs Targeted:
+
+SDG 2 – Zero Hunger: Through its food redistribution system the app plays a role in solving hunger by finding homes for unused food items.
+SDG 12 –  Responsible Consumption and Production: "WasteLessHub" operates in support of circular economy principles by preventing food waste alongside teaching consumers how to consume sustainably.
+SDG 10 – Reduced Inequality: The app impacts SDG 10 through its operation because food distribution helps create healthier food security conditions for disadvantaged communities.
+SDG 13 – Climate Action: By minimizing discarded food exhausted methane levels in trash dumps and shields valuable resources from unnecessary loss.
+
+Key Features:
+
+Food Donation System: The system enables restaurants and grocery stores together with households to submit their surplus food details. Food donation recipients decide what quantities and kinds of food they need and where they will get pickup service.
+Charity Matching: Through automatic location-based algorithmic matching the app connects food donations to registered charities and food banks supporting the donated food types.
+Pickup and Delivery Coordination: The app features a logistics system within the application that enables simple scheduling of tasks for both volunteers and logistics partners for food pickup.
+Food Waste Tracking: User data shows the amount of wasted food that users have saved enabling them to disclose their contribution towards minimized hunger and lowered environmental impacts.
+Sustainability Education Hub: Users can access articles and videos and learn sustainable household tips that include waste reduction methods along with composting and sustainable consumption practices.
+Community Engagement: Through the platform users find local "food rescue" groups to jointly volunteer for food retrieval and delivery tasks that strengthen their community involvement.
+
+
+Technical Architecture:
+
+Frontend:
+
+The development team utilized React Native to create the mobile app which functions securely across iOS and Android operating systems.
+UI/UX: The system features built-in simplicity by allowing users to navigate through all interfaces with simplicity (donors benefit from straightforward forms and clear nearby charity maps).
+Backend:
+
+Server: Server logic runs through Node.js using Express to connect with user API requests directed toward donors and recipients as well as volunteers.
+Database: The technical architecture uses MongoDB to maintain user information with flexibility and provides robust scalability throughout its database structure.
+Real-Time Notifications: Real-time notifications built with Firebase Cloud Messaging system deliver alerts about new donations near users and scheduled pickups in their vicinity.
+
+
+Cloud Infrastructure:
+
+Cloud Hosting: The system uses Google Cloud Infrastructure to deliver flexible hosting while placing stability and data protection at the fore.
+
+Analytics: Through integration with Google Analytics the system retrieves performance statistics from users and food rescues for continued developmental advances.
+Logistics Integration:
+
+A set of interfaces between FoodShare and delivery services Ubereats and Postmates functions to manage food collection and distribution efficiently.
+Data Security:
+
+The system protects every user's data and transaction information using AES-256 encryption systems for complete security and privacy protection.
+
+Research and Evidence:
+
+Food Waste Research: The United Nations Food and Agriculture Organization (FAO) states that global food manufacturing generates thirty percent waste while hunger affects 820 million people worldwide. The recovery and redistribution of surplus food remains the primary method to deal with food insecurity.
+Case Studies on Food Recovery: The successful worldwide programs "Too Good To Go" and Feeding America demonstrate that technology combats food waste by providing help to those in need.
+
+Potential Impact:
+
+The platform could rescue millions of tons of discarded food which can be delivered to benefit communities throughout the nation. Through its consumer-level and retail-level food waste reduction approach WasteLessHub generates substantial progress toward achieving SDGs 2, 10, and 12. Through its platform the app works to promote community engagement and boost Understanding regarding the environmental repercussions of food wastage.
+The app enhances a charity organization's hunger fighting efforts through its provisions for augmented agribusiness and retail sector and personal food donation which supports food bank operations.
+
+Conclusion:
+Through the "WasteLessHub" application users discover an innovative and socially conscious approach which addresses essential global challenges related to food waste as well as supports the attainment of multiple Sustainable Development Goals. By implementing advanced technology this platform provides a scalable solution that minimizes food waste and enhances food availability for communities.
+
+
+
+
+
+citation:  FAO, IFAD, UNICEF, WFP and WHO. 2019. The State of Food Security and Nutrition in the World 2019.
+Safeguarding against economic slowdowns and downturns. Rome, FAO.
+License: CC BY-NC-SA 3.0 IGO.
+Nations.https://openknowledge.fao.org/server/api/core/bitstreams/16480532-17e9-4b61-b388-1d6d86414470/content
+
+Reference: Ellen MacArthur Foundation. (2020). The Circular Economy and Food Waste.https://www.ellenmacarthurfoundation.org/
+
+Reference: National Geographic. (2020). How Food Waste Contributes to Climate Change.https://www.nationalgeographic.com/
+
+Reference: HBR. (2021). The Promise of Technology in Solving Food Waste.https://hbr.org/the-latest

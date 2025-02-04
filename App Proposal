@@ -1,4 +1,5 @@
-"WasteLessHub"
+
+                                                                             "WasteLessHub"
 
 Food Farm disrupts food waste through its app system by coordinating access between consumers and retailers with surplus food shipments to beneficial local charities and food banks. The application functions to redistribute excess food that would end up as waste through redirection to communities in need. Make a connection through this platform which deals with hunger as well as food security and sustainable practices.
 
@@ -28,7 +29,7 @@ UI/UX: The system features built-in simplicity by allowing users to navigate thr
 Backend:
 
 Server: Server logic runs through Node.js using Express to connect with user API requests directed toward donors and recipients as well as volunteers.
-Database: The technical architecture uses MongoDB to maintain user information with flexibility and provides robust scalability throughout its database structure.
+Database: The technical architecture uses MysqlDB to maintain user information with flexibility and provides robust scalability throughout its database structure.
 Real-Time Notifications: Real-time notifications built with Firebase Cloud Messaging system deliver alerts about new donations near users and scheduled pickups in their vicinity.
 
 

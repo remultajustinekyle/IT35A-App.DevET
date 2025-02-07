@@ -1,1 +1,7 @@
 "Comparative Analysis of Successful and Failed Enterprise System Implementations"
+
+Successful Enterprise System Implementation
+Company overview:
+The deployment of ERP systems within the studied cases had multiple underlying reasons. Chinese manufacturing companies normalized their operations to succeed in a growing world market context. Manufacturing companies in China undertook ERP system implementation because they required more efficient operations together with unified business integration and better information distribution between departments. 
+Golden Arrow anticipated that its ERP system implementation would deliver three main outcomes: improved customer relations, better production timings, and reduced expenses from manufacturing operations. ERP systems gained adoption by companies due to external pressures that included both international compliance requirements and market demand changes.
+

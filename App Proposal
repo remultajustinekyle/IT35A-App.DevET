@@ -1,11 +1,11 @@
 
                                                                              "WasteLessHub"
 
-Food Farm disrupts food waste through its app system by coordinating access between consumers and retailers with surplus food shipments to beneficial local charities and food banks. The application functions to redistribute excess food that would end up as waste through redirection to communities in need. Make a connection through this platform which deals with hunger as well as food security and sustainable practices.
+Food Farm disrupts food waste through its web app system by coordinating access between consumers and retailers with surplus food shipments to beneficial local charities and food banks. The application functions to redistribute excess food that would end up as waste through redirection to communities in need. Make a connection through this platform which deals with hunger as well as food security and sustainable practices.
 
 Key SDGs Targeted:
 
-SDG 2 – Zero Hunger: Through its food redistribution system the app plays a role in solving hunger by finding homes for unused food items.
+SDG 2 – Zero Hunger: Through its food redistribution system the app plays a role in solving hunger by unused food items.
 SDG 12 –  Responsible Consumption and Production: "WasteLessHub" operates in support of circular economy principles by preventing food waste alongside teaching consumers how to consume sustainably.
 SDG 10 – Reduced Inequality: The app impacts SDG 10 through its operation because food distribution helps create healthier food security conditions for disadvantaged communities.
 SDG 13 – Climate Action: By minimizing discarded food exhausted methane levels in trash dumps and shields valuable resources from unnecessary loss.
@@ -13,7 +13,7 @@ SDG 13 – Climate Action: By minimizing discarded food exhausted methane levels
 Key Features:
 
 Food Donation System: The system enables restaurants and grocery stores together with households to submit their surplus food details. Food donation recipients decide what quantities and kinds of food they need and where they will get pickup service.
-Charity Matching: Through automatic location-based algorithmic matching the app connects food donations to registered charities and food banks supporting the donated food types.
+Charity Matching: Through automatic location-based algorithmic matching the app connects food donations to registered users and food  donors supporting the donated food types.
 Pickup and Delivery Coordination: The app features a logistics system within the application that enables simple scheduling of tasks for both volunteers and logistics partners for food pickup.
 Food Waste Tracking: User data shows the amount of wasted food that users have saved enabling them to disclose their contribution towards minimized hunger and lowered environmental impacts.
 Sustainability Education Hub: Users can access articles and videos and learn sustainable household tips that include waste reduction methods along with composting and sustainable consumption practices.
@@ -24,8 +24,8 @@ Technical Architecture:
 
 Frontend:
 
-The development team utilized React Native to create the mobile app which functions securely across iOS and Android operating systems.
-UI/UX: The system features built-in simplicity by allowing users to navigate through all interfaces with simplicity (donors benefit from straightforward forms and clear nearby charity maps).
+The development team utilized React Native to create the web app which functions securely to operating systems.
+UI/UX: The system features built-in simplicity by allowing users to navigate through all interfaces with simplicity (donors benefit from straightforward forms and clear nearby charity location).
 Backend:
 
 Server: Server logic runs through Node.js using Express to connect with user API requests directed toward donors and recipients as well as volunteers.
